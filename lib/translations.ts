@@ -189,7 +189,7 @@ export const translations = {
       info: {
         title: "Get In Touch",
         location: "Location",
-        locationValue: "Naladakshin, Homna, Cumilla",
+        locationValue: "Naladakshin, Homna, Cumilla, Bangladesh",
         email: "Email",
         phone: "Phone",
       },
@@ -198,6 +198,12 @@ export const translations = {
         description:
           "Join our team of dedicated volunteers working to build a better Naladakshin. Your time and skills can make a real difference.",
       },
+    },
+    // Gallery Page
+    gallery: {
+      title: "Our Gallery",
+      subtitle: "Capturing moments of change and community effort in Naladakshin",
+      description: "Explore our recent activities, environmental projects, and community gatherings.",
     },
   },
   bn: {
@@ -388,7 +394,7 @@ export const translations = {
       info: {
         title: "যোগাযোগ",
         location: "অবস্থান",
-        locationValue: "নালাদক্ষিণ, হোমনা, কুমিল্লা",
+        locationValue: "নালাদক্ষিণ, হোমনা , কুমিল্লা, বাংলাদেশ",
         email: "ইমেইল",
         phone: "ফোন",
       },
@@ -397,6 +403,12 @@ export const translations = {
         description:
           "একটি ভাল নালাদক্ষিণ তৈরির জন্য কাজ করা আমাদের নিবেদিত স্বেচ্ছাসেবকদের দলে যোগ দিন। আপনার সময় এবং দক্ষতা প্রকৃত পার্থক্য তৈরি করতে পারে।",
       },
+    },
+    // Gallery Page
+    gallery: {
+      title: "আমাদের গ্যালারি",
+      subtitle: "নালাদক্ষিণে পরিবর্তনের মুহূর্ত এবং সম্প্রদায়ের প্রচেষ্টার ছবি",
+      description: "আমাদের সাম্প্রতিক কার্যক্রম, পরিবেশগত প্রকল্প এবং সম্প্রদায়ের সমাবেশের ছবি দেখুন।",
     },
   },
 }

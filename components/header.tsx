@@ -15,6 +15,7 @@ export function Header() {
     { href: "/", label: t.nav.home },
     { href: "/about", label: t.nav.about },
     { href: "/society", label: t.nav.society },
+    { href: "/gallery", label: t.gallery.title },
     { href: "/donation", label: t.nav.donation },
     //{ href: "/agriculture", label: t.nav.agriculture },
     { href: "/contact", label: t.nav.contact },
@@ -26,13 +27,8 @@ export function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <div className="flex h-10 w-10 items-center justify-center overflow-hidden rounded-lg">
-              {/* Public folder-e thaka image use korar jonno */}
-              <img
-                src="/nss_logo.png"
-                alt="NSS Logo"
-                className="h-full w-full object-cover"
-              />
+            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary text-primary-foreground font-bold text-lg">
+              NSS
             </div>
             <div className="hidden md:block">
               <div className="font-bold text-lg leading-tight">Naladakshin</div>
