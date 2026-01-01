@@ -189,7 +189,7 @@ export const translations = {
       info: {
         title: "Get In Touch",
         location: "Location",
-        locationValue: "Naladakshin Village, Homna Upazila, Cumilla, Bangladesh",
+        locationValue: "Naladakshin, Homna, Cumilla",
         email: "Email",
         phone: "Phone",
       },
@@ -388,7 +388,7 @@ export const translations = {
       info: {
         title: "যোগাযোগ",
         location: "অবস্থান",
-        locationValue: "নালাদক্ষিণ গ্রাম, হোমনা উপজেলা, কুমিল্লা, বাংলাদেশ",
+        locationValue: "নালাদক্ষিণ, হোমনা, কুমিল্লা",
         email: "ইমেইল",
         phone: "ফোন",
       },
