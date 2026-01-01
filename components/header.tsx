@@ -16,7 +16,7 @@ export function Header() {
     { href: "/about", label: t.nav.about },
     { href: "/society", label: t.nav.society },
     { href: "/donation", label: t.nav.donation },
-    { href: "/agriculture", label: t.nav.agriculture },
+    //{ href: "/agriculture", label: t.nav.agriculture },
     { href: "/contact", label: t.nav.contact },
   ]
 
