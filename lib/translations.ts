@@ -35,7 +35,7 @@ export const translations = {
         environment: {
           title: "Environment Wing",
           description:
-            "We plant Krishnachura trees along roadsides and near the Eidgah to beautify our village and protect our environment. These trees provide shade, clean air, and create a greener future for generations to come. Your donations help us purchase saplings, maintain planted trees, and expand our green coverage across Naladakshin.",
+            "We plant trees along roadsides, near the mosque, and near the Eidgah to beautify our village and protect our environment. These trees provide shade, clean air, and create a greener future for generations to come. Your donations help us purchase saplings, maintain planted trees, and expand our green coverage across Naladakshin.",
           icon: "tree",
         },
         education: {
@@ -240,7 +240,7 @@ export const translations = {
         environment: {
           title: "পরিবেশ শাখা",
           description:
-            "আমরা রাস্তার ধারে এবং ঈদগাহের কাছে কৃষ্ণচূড়া গাছ রোপণ করি আমাদের গ্রামকে সুন্দর করতে এবং পরিবেশ রক্ষা করতে। এই গাছগুলি ছায়া, বিশুদ্ধ বাতাস প্রদান করে এবং আগামী প্রজন্মের জন্য একটি সবুজ ভবিষ্যৎ তৈরি করে। আপনার দান আমাদের চারা কিনতে, রোপিত গাছের রক্ষণাবেক্ষণ করতে এবং নালাদক্ষিণ জুড়ে আমাদের সবুজ আচ্ছাদন বিস্তৃত করতে সাহায্য করে।",
+            "আমরা রাস্তার ধারে,মসজিদ এবং ঈদগাহের কাছে  গাছ রোপণ করি আমাদের গ্রামকে সুন্দর করতে এবং পরিবেশ রক্ষা করতে। এই গাছগুলি ছায়া, বিশুদ্ধ বাতাস প্রদান করে এবং আগামী প্রজন্মের জন্য একটি সবুজ ভবিষ্যৎ তৈরি করে। আপনার দান আমাদের চারা কিনতে, রোপিত গাছের রক্ষণাবেক্ষণ করতে এবং নালাদক্ষিণ জুড়ে আমাদের সবুজ আচ্ছাদন বিস্তৃত করতে সাহায্য করে।",
           icon: "tree",
         },
         education: {
